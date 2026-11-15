@@ -10,7 +10,8 @@
 ## 📋 Table of Contents
 
 - [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-  - [BrowserStack Open-Source Program](#browserstack-open-source-program)
+  - [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+  - [SaaS Platforms Overview](#saas-platforms-overview)
 - [Open-Source Software](#-open-source-software)
   - [Playwright](#playwright)
   - [Selenium](#selenium)
@@ -28,12 +29,20 @@
 
 ## 🟦 SaaS / Hosted Platforms
 
-Commercial, cloud-hosted testing platforms that support and contribute to the open-source ecosystem. These are not open-source but are included as reference points for how commercial platforms integrate with open-source frameworks.
+Commercial, cloud-hosted testing platforms that support and contribute to the open-source ecosystem. These platforms provide managed execution grids, cross-browser/device infrastructure, and enterprise reporting to scale open-source testing suites.
 
-### BrowserStack Open-Source Program
-**Type:** Commercial cloud testing with open-source integrations and support
-BrowserStack provides a cloud device and browser grid that supports every major open-source testing framework. Its GitHub organization hosts **263 repositories** including integration examples for TestNG, Nightwatch, WebdriverIO, and Appium, alongside its official MCP server, Cypress CLI, and local tunnel bindings in multiple languages [citation:6]. BrowserStack App Automate supports Appium, Espresso, XCUITest, and Maestro, with pricing starting at $199/month for a single parallel real-device test [citation:1]. The platform is a common execution target for open-source suites that need real-device or cross-browser coverage without maintaining a physical lab.
-**Best for:** Teams running open-source frameworks (Playwright, Cypress, Selenium, Appium) that need a managed cloud grid for scale, real devices, or cross-browser coverage.
+### Sector Overview & Market Dynamics
+The global software testing and cloud testing market is valued at approximately $15B–$55B (with cloud testing specifically scaling from ~$12B toward $45B+ at a ~13% CAGR), characterized by **moderate concentration at the top** (led by enterprise conglomerates and infrastructure giants) alongside **high fragmentation** driven by continuous waves of specialized point solutions, AI-native startups, and ubiquitous open-source frameworks.
+
+### SaaS Platforms Overview
+
+| Platform | Starting Price | Free Tier / Trial Limits | Company Size (Valuation / Revenue) | Primary Focus | Best For |
+|---|---|---|---|---|---|
+| **Tricentis** | $1,250/mo ($15,000/yr starting tier) | 14-day free trial upon request (No permanent free tier) | $4.5B valuation (~$500M ARR) | Enterprise continuous testing & test management | Large enterprise suites needing end-to-end multi-app automation |
+| **BrowserStack** | $29/mo (Desktop Live, billed annually) | Free trial: 30 mins Live, 100 mins Automate; Free tier: Percy 5,000 screenshots/mo | $4.0B valuation (~$230M ARR) | Cross-browser & real device execution grid | Teams running Playwright/Cypress/Appium needing cloud scale & real devices |
+| **Sauce Labs** | $39/mo (Live Testing, billed annually) | 28-day free trial: 60 testing minutes, 3 parallel VMs | $613M historical valuation (~$95M ARR) | Cross-browser, real device cloud & CI/CD error reporting | Enterprise CI/CD pipelines needing extensive historical analytics |
+| **LambdaTest** | $15/mo (Virtual Live, billed annually) | Free Forever: 100 lifetime automation mins, 1 parallel session, 2,000 screenshots | $400M valuation (~$50M ARR) | High-speed cloud testing & AI test orchestration | Cost-conscious teams wanting fast parallel runs and AI test authoring |
+| **Applitools** | $667/mo (Starter tier, billed annually) | 14-day free trial (No permanent free tier) | $250M acquisition valuation (~$30M ARR) | Automated visual regression & AI UI validation | Engineering teams needing automated visual pixel & DOM layout validation |
 
 ---
 
