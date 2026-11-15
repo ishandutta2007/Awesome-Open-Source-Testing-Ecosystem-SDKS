@@ -10,7 +10,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Open-Source-Testing-Ecosystem-SDKS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Open-Source-Testing-Ecosystem-SDKS?style=social" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Open-Source-Testing-Ecosystem-SDKS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Open-Source-Testing-Ecosystem-SDKS?style=social" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Open-Source-Testing-Ecosystem-SDKS/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Open-Source-Testing-Ecosystem-SDKS?style=social" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Open-Source-Testing-Ecosystem-SDKS/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square" alt="License: CC0 1.0"/></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -45,7 +45,7 @@ The modern software testing ecosystem spans multiple critical quality engineerin
 - [🟦 SaaS / Hosted Platforms](#-saas--hosted-platforms)
   - [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
   - [🏢 SaaS Platforms Matrix](#-saas-platforms-matrix)
-- [🟩 Open-Source Software (Ranked by Stars ⭐)](#-open-source-software-ranked-by-stars-)
+- [🟩 Open-Source Software (Ranked by GitHub_Stars ⭐)](#-open-source-software-ranked-by-stars-)
   - [1. Playwright (100k+ ⭐)](#1-playwright-100k-)
   - [2. Puppeteer (95k+ ⭐)](#2-puppeteer-95k-)
   - [3. Cypress (51k+ ⭐)](#3-cypress-51k-)
@@ -87,12 +87,12 @@ The global software testing and cloud testing market is valued at approximately 
 
 ---
 
-## 🟩 Open-Source Software (Ranked by Stars ⭐)
+## 🟩 Open-Source Software (Ranked by GitHub_Stars ⭐)
 
 Self-hosted, community-driven testing frameworks, libraries, and SDKs. Ranked in descending order by GitHub stargazer count.
 
 ### 1. Playwright
-[![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)
 - **Repository:** [microsoft/playwright](https://github.com/microsoft/playwright) 🔗
 - **Stack:** TypeScript / Node.js (core), with Python, Java, .NET bindings 💻 | **License:** Apache-2.0 📜
 - **Overview:** Playwright (Microsoft) is the modern web automation framework of choice, running tests against **Chromium, Firefox, and WebKit from a single unified API** with auto-waiting that eliminates flaky manual sleep calls. It parallelizes test runs out of the box, provides browser context isolation for blazing-fast parallel execution, and includes an interactive trace viewer, codegen tool, and native MCP server support.
@@ -102,7 +102,7 @@ Self-hosted, community-driven testing frameworks, libraries, and SDKs. Ranked in
 ---
 
 ### 2. Puppeteer
-[![GitHub stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers)
 - **Repository:** [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) 🔗
 - **Stack:** JavaScript / Node.js 💻 | **License:** Apache-2.0 📜
 - **Overview:** Puppeteer (Google Chrome team) provides a high-level Node.js API to control Chrome, Chromium, and Firefox over the Chrome DevTools Protocol (CDP) and WebDriver BiDi. It is widely utilized for automated UI verification, crawler automation, PDF generation, performance telemetry, and headless browser workflows.
@@ -112,7 +112,7 @@ Self-hosted, community-driven testing frameworks, libraries, and SDKs. Ranked in
 ---
 
 ### 3. Cypress
-[![GitHub stars](https://img.shields.io/github/stars/cypress-io/cypress?style=social&color=white)](https://github.com/cypress-io/cypress/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/cypress-io/cypress?style=social&color=white)](https://github.com/cypress-io/cypress/stargazers)
 - **Repository:** [cypress-io/cypress](https://github.com/cypress-io/cypress) 🔗
 - **Stack:** JavaScript / TypeScript 💻 | **License:** MIT 📜
 - **Overview:** Cypress pioneered the developer-experience-first paradigm for frontend E2E and component testing, executing test code **directly inside the browser run-loop**. It provides time-travel debugging with interactive DOM snapshots at every execution step, automatic video/screenshot capture on failure, and an intuitive visual test runner.
@@ -122,7 +122,7 @@ Self-hosted, community-driven testing frameworks, libraries, and SDKs. Ranked in
 ---
 
 ### 4. Jest
-[![GitHub stars](https://img.shields.io/github/stars/jestjs/jest?style=social&color=white)](https://github.com/jestjs/jest/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/jestjs/jest?style=social&color=white)](https://github.com/jestjs/jest/stargazers)
 - **Repository:** [jestjs/jest](https://github.com/jestjs/jest) 🔗
 - **Stack:** JavaScript / TypeScript 💻 | **License:** MIT 📜
 - **Overview:** Jest (Meta / OpenJS Foundation) is the ubiquitous JavaScript testing framework with a focus on simplicity. It provides zero-configuration setups for Babel/Webpack/React projects, built-in mocking utilities, snapshot testing, and isolated parallel runner processes for unit and integration testing.
@@ -132,7 +132,7 @@ Self-hosted, community-driven testing frameworks, libraries, and SDKs. Ranked in
 ---
 
 ### 5. Selenium
-[![GitHub stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=social&color=white)](https://github.com/SeleniumHQ/selenium/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=social&color=white)](https://github.com/SeleniumHQ/selenium/stargazers)
 - **Repository:** [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) 🔗
 - **Stack:** Java (core), with Python, C#, Ruby, JavaScript bindings 💻 | **License:** Apache-2.0 📜
 - **Overview:** Selenium is the battle-tested, language-agnostic foundation of browser automation, standardized via W3C WebDriver. It supports all commercial browsers, legacy browser engines, real Safari via `safaridriver`, and scales globally via distributed Selenium Grid configurations.
@@ -142,7 +142,7 @@ Self-hosted, community-driven testing frameworks, libraries, and SDKs. Ranked in
 ---
 
 ### 6. k6
-[![GitHub stars](https://img.shields.io/github/stars/grafana/k6?style=social&color=white)](https://github.com/grafana/k6/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/grafana/k6?style=social&color=white)](https://github.com/grafana/k6/stargazers)
 - **Repository:** [grafana/k6](https://github.com/grafana/k6) 🔗
 - **Stack:** Go (engine) / JavaScript (scripting API) 💻 | **License:** AGPL-3.0 📜
 - **Overview:** k6 (Grafana Labs) is a modern developer-centric load and performance testing tool. Written in Go for ultra-low memory overhead, it allows engineers to write test scenarios in familiar JavaScript/ES6 syntax with built-in threshold validation, CI/CD integrations, and native Prometheus/Grafana observability.
@@ -152,7 +152,7 @@ Self-hosted, community-driven testing frameworks, libraries, and SDKs. Ranked in
 ---
 
 ### 7. Appium
-[![GitHub stars](https://img.shields.io/github/stars/appium/appium?style=social&color=white)](https://github.com/appium/appium/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/appium/appium?style=social&color=white)](https://github.com/appium/appium/stargazers)
 - **Repository:** [appium/appium](https://github.com/appium/appium) 🔗
 - **Stack:** Node.js (core), with Java, Python, Ruby, C#, JS clients 💻 | **License:** Apache-2.0 📜
 - **Overview:** Appium is the industry-standard open-source ecosystem for automating **native, hybrid, and mobile web applications across Android and iOS**. Driven by the W3C WebDriver specification, it interfaces with UiAutomator2, Espresso, and XCUITest drivers, executing seamlessly across local emulators and remote device clouds.
@@ -162,7 +162,7 @@ Self-hosted, community-driven testing frameworks, libraries, and SDKs. Ranked in
 ---
 
 ### 8. Vitest
-[![GitHub stars](https://img.shields.io/github/stars/vitest-dev/vitest?style=social&color=white)](https://github.com/vitest-dev/vitest/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/vitest-dev/vitest?style=social&color=white)](https://github.com/vitest-dev/vitest/stargazers)
 - **Repository:** [vitest-dev/vitest](https://github.com/vitest-dev/vitest) 🔗
 - **Stack:** TypeScript / Vite 💻 | **License:** MIT 📜
 - **Overview:** Vitest is a blazing-fast, Vite-native unit and component test framework. It shares Vite's configuration, transform pipeline, and HMR engine, providing instant re-runs on file changes, Jest-compatible APIs, native ESM/TypeScript execution, multi-threading worker pools, and browser-mode testing.
@@ -172,7 +172,7 @@ Self-hosted, community-driven testing frameworks, libraries, and SDKs. Ranked in
 ---
 
 ### 9. Robot Framework
-[![GitHub stars](https://img.shields.io/github/stars/robotframework/robotframework?style=social&color=white)](https://github.com/robotframework/robotframework/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/robotframework/robotframework?style=social&color=white)](https://github.com/robotframework/robotframework/stargazers)
 - **Repository:** [robotframework/robotframework](https://github.com/robotframework/robotframework) 🔗
 - **Stack:** Python 💻 | **License:** Apache-2.0 📜
 - **Overview:** Robot Framework is a generic, keyword-driven automation engine for acceptance testing, acceptance test-driven development (ATDD), and robotic process automation (RPA). It features human-readable tabular syntax, rich extensible Python libraries, data-driven test generation, and clear execution reporting.
@@ -182,7 +182,7 @@ Self-hosted, community-driven testing frameworks, libraries, and SDKs. Ranked in
 ---
 
 ### 10. TestCafe
-[![GitHub stars](https://img.shields.io/github/stars/DevExpress/testcafe?style=social&color=white)](https://github.com/DevExpress/testcafe/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/DevExpress/testcafe?style=social&color=white)](https://github.com/DevExpress/testcafe/stargazers)
 - **Repository:** [DevExpress/testcafe](https://github.com/DevExpress/testcafe) 🔗
 - **Stack:** JavaScript / TypeScript 💻 | **License:** MIT 📜
 - **Overview:** TestCafe (DevExpress) executes automated end-to-end web tests **without requiring WebDriver or native browser plugins**. By serving as a reverse proxy that injects driver scripts directly into the DOM, it eliminates driver compatibility mismatches and supports testing across remote devices simply by visiting a generated URL.
@@ -192,7 +192,7 @@ Self-hosted, community-driven testing frameworks, libraries, and SDKs. Ranked in
 ---
 
 ### 11. WebdriverIO
-[![GitHub stars](https://img.shields.io/github/stars/webdriverio/webdriverio?style=social&color=white)](https://github.com/webdriverio/webdriverio/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/webdriverio/webdriverio?style=social&color=white)](https://github.com/webdriverio/webdriverio/stargazers)
 - **Repository:** [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) 🔗
 - **Stack:** JavaScript / TypeScript 💻 | **License:** MIT 📜
 - **Overview:** WebdriverIO (OpenJS Foundation) is an extensible progressive automation framework that unifies desktop browser testing (via WebDriver and WebDriver BiDi) and native mobile testing (via Appium) under a single modern JavaScript/TypeScript API with an expansive plugin ecosystem.
@@ -202,7 +202,7 @@ Self-hosted, community-driven testing frameworks, libraries, and SDKs. Ranked in
 ---
 
 ### 12. Karate
-[![GitHub stars](https://img.shields.io/github/stars/karatelabs/karate?style=social&color=white)](https://github.com/karatelabs/karate/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/karatelabs/karate?style=social&color=white)](https://github.com/karatelabs/karate/stargazers)
 - **Repository:** [karatelabs/karate](https://github.com/karatelabs/karate) 🔗
 - **Stack:** Java 💻 | **License:** MIT 📜
 - **Overview:** Karate is an open-source test-automation platform that combines **API testing, API mocks, performance testing, and UI automation** into a unified, readable domain-specific language (DSL). It supports native parallel multi-threaded test execution out of the box without requiring Java coding.
@@ -212,7 +212,7 @@ Self-hosted, community-driven testing frameworks, libraries, and SDKs. Ranked in
 ---
 
 ### 13. Apache JMeter
-[![GitHub stars](https://img.shields.io/github/stars/apache/jmeter?style=social&color=white)](https://github.com/apache/jmeter/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/apache/jmeter?style=social&color=white)](https://github.com/apache/jmeter/stargazers)
 - **Repository:** [apache/jmeter](https://github.com/apache/jmeter) 🔗
 - **Stack:** Java 💻 | **License:** Apache-2.0 📜
 - **Overview:** Apache JMeter is the industry's longest-standing open-source load and performance testing tool. It provides a visual GUI workbench for building multi-step test plans, supports a broad protocol spectrum (HTTP, HTTPS, SOAP, REST, JDBC, LDAP, JMS, TCP), and distributes massive load via remote master-slave worker nodes.
@@ -222,7 +222,7 @@ Self-hosted, community-driven testing frameworks, libraries, and SDKs. Ranked in
 ---
 
 ### 14. Gatling
-[![GitHub stars](https://img.shields.io/github/stars/gatling/gatling?style=social&color=white)](https://github.com/gatling/gatling/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/gatling/gatling?style=social&color=white)](https://github.com/gatling/gatling/stargazers)
 - **Repository:** [gatling/gatling](https://github.com/gatling/gatling) 🔗
 - **Stack:** Scala / Java / Kotlin 💻 | **License:** Apache-2.0 📜
 - **Overview:** Gatling is a high-performance load testing engine built on the Akka actor model and Netty async I/O. It treats test scenarios as version-controlled code via expressive Scala, Java, or Kotlin DSLs, achieving remarkable resource efficiency and rendering interactive HTML performance dashboards.
@@ -233,7 +233,7 @@ Self-hosted, community-driven testing frameworks, libraries, and SDKs. Ranked in
 
 ## 📊 Comparison Matrix at a Glance 🔍
 
-| Framework / Tool | GitHub Stars ⭐ | Primary Testing Focus | Execution Model | Native Mobile | Best For |
+| Framework / Tool | GitHub_Stars ⭐ | Primary Testing Focus | Execution Model | Native Mobile | Best For |
 |---|---|---|---|---|---|
 | **Playwright** | 100k+ | Web E2E & Component | CDP / BiDi Out-of-Process | ❌ | Modern, fast cross-browser E2E |
 | **Puppeteer** | 95k+ | Browser Automation & Scraping | Chrome DevTools Protocol | ❌ | Headless Node.js CDP automation |
